@@ -1,0 +1,5 @@
+Assets/Sanket/3D filter=lfs diff=lfs merge=lfs -text
+Model/2016_Audi_A4_HIGH.FBX filter=lfs diff=lfs merge=lfs -text
+Library/metadata/e0/ filter=lfs diff=lfs merge=lfs -text
+Assets/Sanket/3D[[:space:]]Model/2016_Audi_A4_HIGH.FBX filter=lfs diff=lfs merge=lfs -text
+Library/metadata/e0/e0ad7884e65db4f8397c62b86d67df64 filter=lfs diff=lfs merge=lfs -text
